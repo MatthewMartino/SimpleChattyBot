@@ -1,0 +1,29 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5917
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 4. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    10
+    Correct output:
+    10
+
+    Your code output:
+
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 4, in <module>
+        lyric = input()
+    EOFError: EOF when reading a line
+  time: Fri, 25 Sep 2020 05:45:58 UTC
+record: -1

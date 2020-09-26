@@ -1,0 +1,29 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6469
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 6. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    476
+    Correct output:
+    17
+
+    Your code output:
+
+
+    Error:
+    Traceback (most recent call last):
+      File "jailed_code", line 6, in <module>
+        students.append = int(input())
+    AttributeError: 'list' object attribute 'append' is read-only
+  time: Fri, 25 Sep 2020 23:20:31 UTC
+record: -1
